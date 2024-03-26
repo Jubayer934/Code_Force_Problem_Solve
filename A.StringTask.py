@@ -1,0 +1,1 @@
+print("".join("."+(char.lower() if char.isupper() else char) for char in input() if char not in "AEIOUYaeiouy"))
