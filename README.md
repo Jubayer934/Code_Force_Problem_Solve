@@ -10,3 +10,4 @@
 8. [A. Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A)
 9. [B. Upscaling](https://codeforces.com/contest/1950/problem/B)
 10. [C. Clock Conversion](https://codeforces.com/contest/1950/problem/C)
+11. [B. Array Fix](https://codeforces.com/contest/1948/problem/B)
