@@ -21,3 +21,7 @@ ___
 <li>
 
 [C. Rudolf and the Ugly String](https://codeforces.com/problemset/problem/1941/C)
+
+<li>
+
+[C. Arrow Path](https://codeforces.com/problemset/problem/1948/C)
