@@ -11,3 +11,7 @@
 9. [B. Upscaling](https://codeforces.com/contest/1950/problem/B)
 10. [C. Clock Conversion](https://codeforces.com/contest/1950/problem/C)
 11. [B. Array Fix](https://codeforces.com/contest/1948/problem/B)
+12. [A. Are You a Robot, Again?](https://codeforces.com/contest/1952/problem/A)
+13. [B. Is it stated?](https://codeforces.com/contest/1952/problem/B)
+14. [C. They Have Fooled](https://codeforces.com/contest/1952/problem/C)
+15. [D. Are You a Procrastinator?](https://codeforces.com/contest/1952/problem/D).
