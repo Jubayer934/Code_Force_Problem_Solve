@@ -15,3 +15,4 @@
 13. [B. Is it stated?](https://codeforces.com/contest/1952/problem/B)
 14. [C. They Have Fooled](https://codeforces.com/contest/1952/problem/C)
 15. [D. Are You a Procrastinator?](https://codeforces.com/contest/1952/problem/D)
+16. [A. Upload More RAM](https://codeforces.com/contest/1987/problem/A)
