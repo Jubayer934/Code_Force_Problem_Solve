@@ -14,4 +14,4 @@
 12. [A. Are You a Robot, Again?](https://codeforces.com/contest/1952/problem/A)
 13. [B. Is it stated?](https://codeforces.com/contest/1952/problem/B)
 14. [C. They Have Fooled](https://codeforces.com/contest/1952/problem/C)
-15. [D. Are You a Procrastinator?](https://codeforces.com/contest/1952/problem/D).
+15. [D. Are You a Procrastinator?](https://codeforces.com/contest/1952/problem/D)
