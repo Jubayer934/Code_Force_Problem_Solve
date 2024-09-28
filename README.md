@@ -17,4 +17,5 @@
 15. [D. Are You a Procrastinator?](https://codeforces.com/contest/1952/problem/D)
 16. [A. Upload More RAM](https://codeforces.com/contest/1987/problem/A)
 17. [A. Minimize!](https://codeforces.com/problemset/problem/2009/A)
-18. 
+18. [A. Division?](https://codeforces.com/contest/1669/problem/A)
+19. 
