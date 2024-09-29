@@ -1,13 +1,12 @@
 def solve(n, k):
-    dq = []
-    
+    cnt = 0
     if k == 1:
         print(n)
     else:
         while n:
-            dq.append(n % k)
+            cnt += n % k
             n //= k
-        cnt = sum(dq)
+        
         print(cnt)
 
 
