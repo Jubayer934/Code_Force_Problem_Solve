@@ -18,4 +18,5 @@
 16. [A. Upload More RAM](https://codeforces.com/contest/1987/problem/A)
 17. [A. Minimize!](https://codeforces.com/problemset/problem/2009/A)
 18. [A. Division?](https://codeforces.com/contest/1669/problem/A)
-19. 
+19. [A. Find Minimum Operations](https://codeforces.com/contest/2020/problem/A)
+20. 
