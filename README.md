@@ -19,4 +19,5 @@
 17. [A. Minimize!](https://codeforces.com/problemset/problem/2009/A)
 18. [A. Division?](https://codeforces.com/contest/1669/problem/A)
 19. [A. Find Minimum Operations](https://codeforces.com/contest/2020/problem/A)
-20. 
+20. [A. Meaning Mean.py](https://codeforces.com/contest/2021/problem/A)
+21. 
