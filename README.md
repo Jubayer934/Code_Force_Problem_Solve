@@ -22,4 +22,9 @@
 20. [A. Meaning Mean.py](https://codeforces.com/contest/2021/problem/A)
 21. [A. A Gift From Orangutan](https://codeforces.com/contest/2030/problem/A)
 22. [B. Minimise Oneness](https://codeforces.com/contest/2030/problem/B)
-23. 
+23. [B. Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B)
+24. [A. A+B Again?](https://codeforces.com/contest/1999/problem/A)
+25. [C. Anya and 1100](https://codeforces.com/contest/2036/problem/C)
+26. [A. Quintomania](https://codeforces.com/contest/2036/problem/A)
+27. [A. Circuit](https://codeforces.com/contest/2032/problem/A)
+28. 
