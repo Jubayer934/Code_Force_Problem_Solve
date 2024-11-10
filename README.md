@@ -27,4 +27,5 @@
 25. [C. Anya and 1100](https://codeforces.com/contest/2036/problem/C)
 26. [A. Quintomania](https://codeforces.com/contest/2036/problem/A)
 27. [A. Circuit](https://codeforces.com/contest/2032/problem/A)
-28. 
+28. [A. Alice's Adventures in "Chess"](https://codeforces.com/contest/2028/problem/A)
+29. 
