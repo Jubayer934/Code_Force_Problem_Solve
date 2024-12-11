@@ -28,4 +28,5 @@
 26. [A. Quintomania](https://codeforces.com/contest/2036/problem/A)
 27. [A. Circuit](https://codeforces.com/contest/2032/problem/A)
 28. [A. Alice's Adventures in "Chess"](https://codeforces.com/contest/2028/problem/A)
-29. 
+29. [A. Game of Division](https://github.com/Jubayer934/Code_Force_Problem_Solve/blob/main/A.%20Game%20of%20Division.py)
+30. 
