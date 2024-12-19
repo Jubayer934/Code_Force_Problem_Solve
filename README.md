@@ -30,4 +30,5 @@
 28. [A. Alice's Adventures in "Chess"](https://codeforces.com/contest/2028/problem/A)
 29. [A. Game of Division](https://github.com/Jubayer934/Code_Force_Problem_Solve/blob/main/A.%20Game%20of%20Division.py)
 30. [A. Easy Problem](https://codeforces.com/contest/2044/problem/A)
-31. 
+31. [B. Normal Problem](https://codeforces.com/contest/2044/problem/B)
+32. 
