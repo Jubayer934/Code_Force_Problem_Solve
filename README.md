@@ -25,8 +25,8 @@ Problems are organized by **contest ID**.
 
 ## Codeforces Round 920 (Div. 3)
 - [A. Square](https://codeforces.com/contest/1921/problem/A)
-- [D. Very Different Array](https://codeforces.com/contest/1921/problem/D)
 - [B. Arranging Cats.py](https://codeforces.com/contest/1921/problem/B)
+- [D. Very Different Array](https://codeforces.com/contest/1921/problem/D)
 
 ---
 
