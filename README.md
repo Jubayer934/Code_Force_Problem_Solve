@@ -32,6 +32,7 @@ Problems are organized by **contest ID**.
 ---
 
 ## Codeforces Round 933 (Div. 3)
+- [A. Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A)
 - [C. Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C)
 
 ---
