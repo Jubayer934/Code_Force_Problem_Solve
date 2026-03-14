@@ -51,6 +51,7 @@ Problems are organized by **contest ID**.
 ---
 
 ## Codeforces Round 952 (Div. 4)
+- [A. Creating Words](https://codeforces.com/contest/1985/problem/A)
 - [B. Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B)
 
 ---
